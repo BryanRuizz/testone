@@ -85,7 +85,7 @@ function Shipments() {
     };
     //#endregion end hanled delayed package
 
-    console.log(inf);
+    console.log("inf",inf);
     return (
         <>
             <div className='titleone'>
