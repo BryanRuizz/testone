@@ -21,7 +21,9 @@ const Packages = [
     { name: 'Package12', distance: 13 },
     { name: 'Package13', distance: 14 },
     { name: 'Package14', distance: 15 },
-    { name: 'Package15', distance: 16 }
+    { name: 'Package15', distance: 16 }, 
+    { name: 'Package16', distance: 17 },
+    { name: 'Package17', distance: 18 }
   ];
 
 export { Couriers, Packages };
